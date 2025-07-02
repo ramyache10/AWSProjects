@@ -1,10 +1,10 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Add Custom Slots to a Lex Chatbot
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-ai-lex2)
 
-**Author:** Ramya Reddy  
+
+**Author:** Ramyasri Chapala  
 **Email:** ramyareddy5018@gmail.com
 
 ---
