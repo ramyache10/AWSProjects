@@ -1,17 +1,15 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Welcome to the Lex Chatbot series!
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-ai-lex)
 
-**Author:** Ramya Reddy  
+
+**Author:** Ramyasri Chapala 
 **Email:** ramyareddy5018@gmail.com
 
 ---
 
 ## I'm Building an AI Chatbot on Amazon Lex!
 
-![Image](http://learn.nextwork.org/daring_cyan_noble_chicken/uploads/aws-ai-lex_ba6d42ae)
 
 ---
 
@@ -63,6 +61,6 @@ In short, Lex lets you focus on designing the conversation while it takes care o
 
 ## Excited to share my progress - build a chatbot with me!
 
-![Image](http://learn.nextwork.org/daring_cyan_noble_chicken/uploads/aws-ai-lex_ba6d42ae)
+
 
 ---
