@@ -1,8 +1,8 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Save User Info with a Lex Chatbot
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-ai-lex4)
+
 
 **Author:** Ramya Reddy  
 **Email:** ramyareddy5018@gmail.com
